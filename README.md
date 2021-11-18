@@ -10,7 +10,7 @@
 
 After you have completed the steps above and have your Discord and Twitter tokens, add them to the below code in the tokens.py file
 
-'''
+```
 Discord Token
 discordToken = "*discordTokenGoesHere*"
 
@@ -19,7 +19,7 @@ consumerKey = "*consumerKeyGoesHere*"
 consumerSecret = "*consumerSecretGoesHere*"
 accessToken = "*accessTokenGoesHere*"
 accessTokenSecret = "*accessTokenSecretGoesHere"
-'''
+```
 
 After you complete this step the bot should be fully functional. The bot has the following features:
 - Post text based tweets
