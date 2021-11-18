@@ -1,3 +1,5 @@
+# Change this file to enable the bot to link with discord and twitter
+
 # Discord Token
 discordToken = "*discordTokenGoesHere*"
 
