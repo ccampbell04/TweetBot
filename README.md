@@ -11,10 +11,10 @@
 After you have completed the steps above and have your Discord and Twitter tokens, add them to the below code in the tokens.py file
 
 '''
-# Discord Token
+Discord Token
 discordToken = "*discordTokenGoesHere*"
 
-# Twitter Tokens
+Twitter Tokens
 consumerKey = "*consumerKeyGoesHere*"
 consumerSecret = "*consumerSecretGoesHere*"
 accessToken = "*accessTokenGoesHere*"
@@ -32,8 +32,6 @@ After you complete this step the bot should be fully functional. The bot has the
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Although the bot runs currently there are some future changes which could be beneficial:
-- Currently if a user uploads an image to discord the account tweets 
-  > DiscordUsername says 
-  I am unsure if posting an image is possible and, if not, I would like to implement a change which asks the user for a valid input
+- Currently if a user uploads an image to discord the account tweets the blank template of, DiscordUsername says. I am unsure if posting an image is possible and, if not, I would like to implement a change which asks the user for a valid input
 - Also I am experiencing a bug where the program crashes if a tweet that has already been made is inputted 
 - One final change could be adding a feature to allow the bot to read tweets into the discord from the accounts feed
