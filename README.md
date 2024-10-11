@@ -5,6 +5,8 @@
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 This bot was created as a project during my first semester of University
 
+![Alt text](<assets/tweetBot.png>)
+
 When setting up the bot there are a few steps that need to be completed. I will attatch a link to in depth explanations for the configuration below:
 
 [Discord setup](https://realpython.com/how-to-make-a-discord-bot-python/#how-to-make-a-discord-bot-in-the-developer-portal)
