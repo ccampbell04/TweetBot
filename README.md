@@ -1,8 +1,9 @@
 # TweetBot
 ### Discord bot allowing users to remotely tweet from a discord server using a twitter dev account
 
-This bot was created as a project during my first semester of University
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+This bot was created as a project during my first semester of University
 
 When setting up the bot there are a few steps that need to be completed. I will attatch a link to in depth explanations for the configuration below:
 
